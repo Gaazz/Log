@@ -1,0 +1,194 @@
+[B#681]  [15:19:02] [Client thread/INFO]: [CHAT] You retrieved Beedrill!
+[B#681]  [15:19:04] [Client thread/INFO]: [CHAT] You sent out Beedrill!
+[B#681]  [15:19:05] [Client thread/INFO]: [CHAT] You retrieved Beedrill!
+[B#681]  [15:19:14] [Client thread/INFO]: [CHAT] [AFK] Akazayy is no longer AFK!
+[B#681]  [15:19:15] [Client thread/INFO]: [CHAT] [Trainer] Bea_the_blaze > wait could I propose an offer
+[B#681]  [15:19:17] [Client thread/INFO]: [CHAT] [+] Htxz [Trainer]
+[B#681]  [15:19:18] [Client thread/INFO]: [CHAT] [Andyque -> Me] > move
+[B#681]  [15:19:25] [Client thread/INFO]: [CHAT] Economy > 10.0 timetokens have been added to your account
+[B#681]  [15:19:25] [Client thread/INFO]: [CHAT] SmashOnline > You have been online for an hour so you have been given 10 Time Tokens - /timeshop!
+[B#681]  [15:19:26] [Client thread/INFO]: [CHAT] [Me -> Andyque] > ?
+[B#681]  [15:19:28] [Client thread/INFO]: [CHAT] [Trainer] MintzYT_ > does anyone want to buy a masterball?
+[B#681]  [15:19:29] [Client thread/INFO]: [CHAT] [Trainer] KayraKRC > how do you go up to elevator
+[B#681]  [15:19:29] [Client thread/INFO]: [CHAT] §4§lSmash§f§lTrivia §8§l>§e The question has not been answered in time. Acceptable answers were: §bflying
+[B#681]  [15:19:33] [Client thread/INFO]: [CHAT] [Trainer] Bea_the_blaze > 12k and a master ball, plus some rare candies for the yveltal
+[B#681]  [15:19:40] [Client thread/INFO]: [CHAT] [AFK] Xx_Monkeygaming has been kicked for being AFK too long!
+[B#681]  [15:19:41] [Client thread/INFO]: [CHAT] [-] Xx_Monkeygaming [Trainer]
+[B#681]  [15:19:45] [Client thread/INFO]: [CHAT] [Trainer] Stupidgamer75 > can I see them?
+[B#681]  [15:19:50] [Client thread/INFO]: [CHAT] [Trainer] TTV_NotFlameYT > I dont have them on me
+[B#681]  [15:19:55] [Client thread/INFO]: [CHAT] [Trainer] TTV_NotFlameYT > I need a pc
+[B#681]  [15:19:56] [Client thread/INFO]: [CHAT] [Trainer] Stupidgamer75 > ohhhhhhh
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] §0[§e§lStats§6§lCatcher§0] §8§l>§a §7You caught a §eMachamp§7! §7Hover here to see its stats.
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] Your Dragoon§r gained 620 Exp.!
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] Your Poliwhirl gained 620 Exp.!
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] Your Golduck gained 620 Exp.!
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] Your Magmar gained 620 Exp.!
+[B#681]  [15:20:01] [Client thread/INFO]: [CHAT] Your party is full. Machamp was sent to your PC!
+[B#681]  [15:20:06] [Client thread/INFO]: Mapping halted in C:\Users\marco\AppData\Roaming\.technic\modpacks\smashmc-pixelmon-reforged\journeymap\data\mp\Minecraft~Server\DIM5
+[B#681]  [15:20:06] [Client thread/INFO]: JEI search tree manager injection complete!
+[B#681]  [15:20:06] [Client thread/INFO]: Applying holder lookups
+[B#681]  [15:20:06] [Client thread/INFO]: Holder lookups applied
+[B#681]  [15:20:07] [Client thread/FATAL]: Reported exception thrown!
+[B#681]  net.minecraft.util.ReportedException: Rendering screen
+[B#681]  	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1492) ~[buq.class:?]
+[B#681]  	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1119) ~[bib.class:?]
+[B#681]  	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398) [bib.class:?]
+[B#681]  	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+[B#681]  	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+[B#681]  	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[B#681]  Caused by: java.lang.NullPointerException
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.battleScreens.screens.LevelUpScreen.drawScreen(LevelUpScreen.java:109) ~[LevelUpScreen.class:8.2.0]
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.GuiBattle.func_73863_a(GuiBattle.java:395) ~[GuiBattle.class:8.2.0]
+[B#681]  	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396) ~[ForgeHooksClient.class:?]
+[B#681]  	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source) ~[?:?]
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+[B#681]  	at net.optifine.reflect.Reflector.callVoid(Reflector.java:669) ~[Reflector.class:?]
+[B#681]  	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1462) ~[buq.class:?]
+[B#681]  	... 9 more
+[B#681]  [15:20:08] [Client thread/INFO]: [net.minecraft.init.Bootstrap:func_179870_a:553]: ---- Minecraft Crash Report ----
+[B#681]  
+[B#681]  WARNING: coremods are present:
+[B#681]    Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.11-1.12.2.jar)
+[B#681]  Contact their authors BEFORE contacting forge
+[B#681]  
+[B#681]  // You're mean.
+[B#681]  
+[B#681]  Time: 8/21/21 3:20 PM
+[B#681]  Description: Rendering screen
+[B#681]  
+[B#681]  java.lang.NullPointerException: Rendering screen
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.battleScreens.screens.LevelUpScreen.drawScreen(LevelUpScreen.java:109)
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.GuiBattle.func_73863_a(GuiBattle.java:395)
+[B#681]  	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396)
+[B#681]  	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497)
+[B#681]  	at net.optifine.reflect.Reflector.callVoid(Reflector.java:669)
+[B#681]  	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1462)
+[B#681]  	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1119)
+[B#681]  	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+[B#681]  	at net.minecraft.client.main.Main.main(SourceFile:123)
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497)
+[B#681]  	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[B#681]  	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[B#681]  
+[B#681]  
+[B#681]  A detailed walkthrough of the error, its code path and all known details is as follows:
+[B#681]  ---------------------------------------------------------------------------------------
+[B#681]  
+[B#681]  -- Head --
+[B#681]  Thread: Client thread
+[B#681]  Stacktrace:
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.battleScreens.screens.LevelUpScreen.drawScreen(LevelUpScreen.java:109)
+[B#681]  	at com.pixelmonmod.pixelmon.client.gui.battles.GuiBattle.func_73863_a(GuiBattle.java:395)
+[B#681]  	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396)
+[B#681]  	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497)
+[B#681]  	at net.optifine.reflect.Reflector.callVoid(Reflector.java:669)
+[B#681]  
+[B#681]  -- Screen render details --
+[B#681]  Details:
+[B#681]  	Screen name: com.pixelmonmod.pixelmon.client.gui.battles.GuiBattle
+[B#681]  	Mouse location: Scaled: (153, 618). Absolute: (307, 99)
+[B#681]  	Screen size: Scaled: (1280, 668). Absolute: (2560, 1336). Scale factor of 2
+[B#681]  
+[B#681]  -- Affected level --
+[B#681]  Details:
+[B#681]  	Level name: MpServer
+[B#681]  	All players: 15 total; [EntityPlayerSP['MarcoGazz'/6021501, l='MpServer', x=-15649.00, y=51.00, z=-15528.61], EntityOtherPlayerMP['lightning2323'/470064, l='MpServer', x=-25303.19, y=173.06, z=12383.74], EntityOtherPlayerMP['Knightleer'/472456, l='MpServer', x=-11147.83, y=65.00, z=15254.42], EntityOtherPlayerMP['kasper901'/472535, l='MpServer', x=-25300.50, y=182.00, z=12472.50], EntityOtherPlayerMP['Samadness'/472596, l='MpServer', x=-25308.71, y=150.00, z=12481.17], EntityOtherPlayerMP['Maddis123'/473032, l='MpServer', x=-25301.03, y=197.00, z=12564.23], EntityOtherPlayerMP['dedrat3r_ru'/473439, l='MpServer', x=-17244.86, y=64.00, z=1430.07], EntityOtherPlayerMP['SybeD'/474424, l='MpServer', x=440.50, y=69.00, z=6859.50], EntityOtherPlayerMP['ScarethMYT'/475416, l='MpServer', x=7282.19, y=27.00, z=-15781.30], EntityOtherPlayerMP['Biecki'/475800, l='MpServer', x=-25228.41, y=160.00, z=12517.12], EntityOtherPlayerMP['Guldkobra'/476551, l='MpServer', x=-25305.92, y=149.50, z=12484.58], EntityOtherPlayerMP['DahllundJ'/477349, l='MpServer', x=-5811.08, y=66.00, z=-11654.08], EntityOtherPlayerMP['Andyque'/477348, l='MpServer', x=-15644.35, y=52.00, z=-15526.58], EntityOtherPlayerMP['FastGabe2008'/477807, l='MpServer', x=-25291.70, y=149.00, z=12482.51], EntityOtherPlayerMP['Htxz'/478043, l='MpServer', x=8952.50, y=64.00, z=3007.50]]
+[B#681]  	Chunk stats: MultiplayerChunkCache: 81, 81
+[B#681]  	Level seed: 0
+[B#681]  	Level generator: ID 01 - flat, ver 0. Features enabled: false
+[B#681]  	Level generator options: 
+[B#681]  	Level spawn location: World: (-15701,155,-15592), Chunk: (at 11,9,8 in -982,-975; contains blocks -15712,0,-15600 to -15697,255,-15585), Region: (-31,-31; contains chunks -992,-992 to -961,-961, blocks -15872,0,-15872 to -15361,255,-15361)
+[B#681]  	Level time: 1437838041 game time, 1487097783 day time
+[B#681]  	Level dimension: 0
+[B#681]  	Level storage version: 0x00000 - Unknown?
+[B#681]  	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+[B#681]  	Level game mode: Game mode: adventure (ID 2). Hardcore: false. Cheats: false
+[B#681]  	Forced entities: 124 total; [EntityPixelmon['Arrokuda'/460293, l='MpServer', x=-15620.33, y=45.00, z=-15535.25], EntityPixelmon['Diglett'/458501, l='MpServer', x=-15645.50, y=44.00, z=-15543.50], EntityPixelmon['Barboach'/460290, l='MpServer', x=-15618.65, y=44.00, z=-15543.94], EntityPixelmon['Whismur'/474880, l='MpServer', x=-15639.50, y=43.00, z=-15488.50], EntityPixelmon['Arrokuda'/478479, l='MpServer', x=-15614.54, y=48.00, z=-15526.63], EntityOtherPlayerMP['Samadness'/472596, l='MpServer', x=-25308.71, y=150.00, z=12481.17], EntityPixelmon['Gastly'/478482, l='MpServer', x=-15604.50, y=62.00, z=-15525.50], EntityPixelmon['Drilbur'/478481, l='MpServer', x=-15605.50, y=68.00, z=-15518.50], EntityPixelmon['Rolycoly'/475935, l='MpServer', x=-15623.50, y=56.00, z=-15503.50], EntityPixelmon['Litwick'/462623, l='MpServer', x=-15690.50, y=72.00, z=-15554.50], EntityPixelmon['Gastly'/462878, l='MpServer', x=-15686.50, y=73.00, z=-15545.50], EntityPixelmon['Diglett'/460062, l='MpServer', x=-15687.99, y=47.00, z=-15564.30], EntityPixelmon['Geodude'/461598, l='MpServer', x=-15691.78, y=44.00, z=-15576.50], EntityPixelmon['Lycanroc'/461341, l='MpServer', x=-15636.50, y=54.00, z=-15534.50], EntityOtherPlayerMP['ScarethMYT'/475416, l='MpServer', x=7282.19, y=27.00, z=-15781.30], EntityPixelmon['Sinistea'/473627, l='MpServer', x=-15661.50, y=41.00, z=-15498.50], EntityOtherPlayerMP['ScarethMYT'/475416, l='MpServer', x=7282.19, y=27.00, z=-15781.30], EntityOtherPlayerMP['Biecki'/475800, l='MpServer', x=-25228.41, y=160.00, z=12517.12], EntityPixelmon['Weezing'/474662, l='MpServer', x=-15686.67, y=46.00, z=-15521.66], EntityPixelmon['Sinistea'/473377, l='MpServer', x=-15669.50, y=45.00, z=-15496.50], EntityPixelmon['Klink'/475936, l='MpServer', x=-15617.50, y=59.00, z=-15511.50], EntityPixelmon['Joltik'/462624, l='MpServer', x=-15689.50, y=49.00, z=-15554.50], EntityPixelmon['Florges'/459048, l='MpServer', x=-15639.03, y=54.00, z=-15543.19], EntityOtherPlayerMP['Guldkobra'/476551, l='MpServer', x=-25305.92, y=149.50, z=12484.58], EntityPixelmon['Finneon'/468791, l='MpServer', x=-15601.73, y=47.00, z=-15564.38], EntityPixelmon['Mamoswine'/461367, l='MpServer', x=-15670.02, y=50.00, z=-15534.70], EntityPixelmon['Florges'/461366, l='MpServer', x=-15657.48, y=51.00, z=-15569.22], EntityPixelmon['Scraggy'/455220, l='MpServer', x=-15663.07, y=48.00, z=-15575.41], EntityPixelmon['Drilbur'/463412, l='MpServer', x=-15685.45, y=50.00, z=-15542.72], EntityPixelmon['Chinchou'/458803, l='MpServer', x=-15670.53, y=53.00, z=-15550.29], EntityOtherPlayerMP['lightning2323'/470064, l='MpServer', x=-25303.19, y=173.06, z=12383.74], EntityPixelmon['Roggenrola'/459568, l='MpServer', x=-15616.50, y=54.00, z=-15551.50], EntityPixelmon['Carbink'/474431, l='MpServer', x=-15647.50, y=44.00, z=-15499.50], EntityPixelmon['Doduo'/475710, l='MpServer', x=-15671.50, y=45.00, z=-15519.50], EntityPixelmon['Sinistea'/474939, l='MpServer', x=-15679.50, y=65.00, z=-15545.50], EntityPixelmon['Volbeat'/461369, l='MpServer', x=-15674.04, y=52.00, z=-15550.26], EntityOtherPlayerMP['SybeD'/474424, l='MpServer', x=440.50, y=69.00, z=6859.50], EntityPixelmon['Hippopotas'/476742, l='MpServer', x=-15650.50, y=46.00, z=-15515.50], EntityPixelmon['Chewtle'/477764, l='MpServer', x=-15627.50, y=54.00, z=-15559.50], EntityPixelmon['Mantyke'/464963, l='MpServer', x=-15654.58, y=53.00, z=-15537.93], EntityPixelmon['Diglett'/474433, l='MpServer', x=-15642.72, y=47.00, z=-15508.90], EntityPixelmon['Archen'/475469, l='MpServer', x=-15653.50, y=54.00, z=-15541.50], EntityPixelmon['Skorupi'/457054, l='MpServer', x=-15657.93, y=49.00, z=-15525.50], EntityOtherPlayerMP['dedrat3r_ru'/473439, l='MpServer', x=-17244.86, y=64.00, z=1430.07], EntityPixelmon['Axew'/458078, l='MpServer', x=-15659.54, y=50.00, z=-15568.04], EntityPixelmon['Delibird'/455775, l='MpServer', x=-15641.10, y=50.00, z=-15521.47], EntityOtherPlayerMP['Htxz'/478043, l='MpServer', x=8952.50, y=64.00, z=3007.50], EntityPixelmon['Golduck'/457316, l='MpServer', x=-15681.50, y=48.00, z=-15529.50], EntityPixelmon['Wingull'/477796, l='MpServer', x=-15616.23, y=61.00, z=-15562.33], EntityPixelmon['Aron'/457317, l='MpServer', x=-15693.72, y=49.00, z=-15533.31], EntityPixelmon['Heracross'/458080, l='MpServer', x=-15657.58, y=54.00, z=-15549.22], EntityPixelmon['Clobbopus'/455776, l='MpServer', x=-15632.05, y=54.00, z=-15523.68], EntityPixelmon['Minccino'/472943, l='MpServer', x=-15663.50, y=41.00, z=-15487.50], EntityOtherPlayerMP['FastGabe2008'/477807, l='MpServer', x=-25291.70, y=149.00, z=12482.51], EntityPixelmon['Roggenrola'/457583, l='MpServer', x=-15677.50, y=46.00, z=-15575.50], EntityPixelmon['Larvitar'/457836, l='MpServer', x=-15630.50, y=44.00, z=-15556.50], EntityPixelmon['Diglett'/472941, l='MpServer', x=-15649.53, y=42.00, z=-15492.45], EntityPixelmon['Clamperl'/464744, l='MpServer', x=-15617.50, y=49.00, z=-15575.50], EntityPixelmon['Boldore'/464488, l='MpServer', x=-15695.07, y=47.00, z=-15563.68], EntityPixelmon['Stunky'/459127, l='MpServer', x=-15659.48, y=47.00, z=-15521.04], EntityPixelmon['Kakuna'/474231, l='MpServer', x=-15663.41, y=53.00, z=-15539.83], EntityOtherPlayerMP['DahllundJ'/477349, l='MpServer', x=-5811.08, y=66.00, z=-11654.08], EntityOtherPlayerMP['Andyque'/477348, l='MpServer', x=-25316.00, y=203.00, z=12485.00], EntityPixelmon['Diglett'/475764, l='MpServer', x=-15631.50, y=50.00, z=-15507.95], EntityPixelmon['Floatzel'/475763, l='MpServer', x=-15625.50, y=54.00, z=-15516.50], EntityPixelmon['Klink'/472435, l='MpServer', x=-15653.50, y=43.00, z=-15505.50], EntityPixelmon['Roggenrola'/462707, l='MpServer', x=-15681.47, y=49.00, z=-15561.87], EntityOtherPlayerMP['Andyque'/477348, l='MpServer', x=-15644.35, y=52.00, z=-15526.58], EntityPixelmon['Forretress'/459377, l='MpServer', x=-15668.19, y=51.00, z=-15559.29], EntityPixelmon['Frillish'/458374, l='MpServer', x=-15622.29, y=46.00, z=-15557.48], EntityOtherPlayerMP['Guldkobra'/476551, l='MpServer', x=-25305.92, y=149.50, z=12484.58], EntityPixelmon['Bronzor'/459397, l='MpServer', x=-15689.61, y=42.00, z=-15508.18], EntityPixelmon['Drifblim'/459396, l='MpServer', x=-15677.44, y=42.00, z=-15512.00], EntityPixelmon['Graveler'/465027, l='MpServer', x=-15680.53, y=52.00, z=-15551.41], EntityPixelmon['Wishiwashi'/475531, l='MpServer', x=-15619.63, y=49.02, z=-15535.64], EntityPixelmon['Seismitoad'/475530, l='MpServer', x=-15627.50, y=53.00, z=-15532.50], EntityPixelmon['Tyrogue'/458376, l='MpServer', x=-15633.71, y=54.00, z=-15569.50], EntityPixelmon['Bunnelby'/478345, l='MpServer', x=-15637.50, y=47.00, z=-15500.50], EntityOtherPlayerMP['Knightleer'/472456, l='MpServer', x=-11147.83, y=65.00, z=15254.42], EntityPixelmon['Tynamo'/478103, l='MpServer', x=-15609.32, y=44.00, z=-15556.26], EntityPixelmon['Sinistea'/463251, l='MpServer', x=-15674.50, y=62.00, z=-15556.50], EntityPixelmon['Klink'/474514, l='MpServer', x=-15670.50, y=65.00, z=-15501.50], EntityPixelmon['Minccino'/474513, l='MpServer', x=-15671.34, y=41.00, z=-15503.37], EntityPixelmon['Arcanine'/459920, l='MpServer', x=-15678.18, y=51.00, z=-15540.90], EntityPixelmon['Finneon'/471198, l='MpServer', x=-15613.16, y=44.57, z=-15545.53], EntityOtherPlayerMP['FastGabe2008'/477807, l='MpServer', x=-25291.70, y=149.00, z=12482.51], EntityPixelmon['Magikarp'/471197, l='MpServer', x=-15611.85, y=44.00, z=-15534.53], EntityPixelmon['Chinchou'/471196, l='MpServer', x=-15619.61, y=44.00, z=-15560.56], EntityPixelmon['Minccino'/473753, l='MpServer', x=-15671.50, y=41.00, z=-15481.50], EntityPixelmon['Qwilfish'/478105, l='MpServer', x=-15606.46, y=44.00, z=-15542.75], EntityOtherPlayerMP['Biecki'/475800, l='MpServer', x=-25228.41, y=160.00, z=12517.12], EntityPlayerSP['MarcoGazz'/6021501, l='MpServer', x=-15649.00, y=51.00, z=-15528.61], EntityOtherPlayerMP['DahllundJ'/477349, l='MpServer', x=-5811.08, y=66.00, z=-11654.08], EntityOtherPlayerMP['Htxz'/478043, l='MpServer', x=8952.50, y=64.00, z=3007.50], EntityPixelmon['Obstagoon'/457911, l='MpServer', x=-15645.50, y=54.00, z=-15561.99], EntityOtherPlayerMP['Knightleer'/472456, l='MpServer', x=-11147.83, y=65.00, z=15254.42], EntityPixelmon['Arctozolt'/463034, l='MpServer',
+[B#681]  x=-15670.49, y=49.00, z=-15568.12], EntityPixelmon['Lumineon'/459962, l='MpServer', x=-15675.50, y=50.00, z=-15539.50], EntityOtherPlayerMP['kasper901'/472535, l='MpServer', x=-25300.50, y=182.00, z=12472.50], EntityPixelmon['Ralts'/458694, l='MpServer', x=-15618.50, y=68.00, z=-15552.50], EntityPixelmon['Trevenant'/462786, l='MpServer', x=-15639.55, y=54.00, z=-15548.01], EntityPixelmon['Roggenrola'/478146, l='MpServer', x=-15617.50, y=60.00, z=-15494.50], EntityOtherPlayerMP['Samadness'/472596, l='MpServer', x=-25308.71, y=150.00, z=12481.17], EntityPixelmon['Ferrothorn'/477901, l='MpServer', x=-15649.50, y=54.00, z=-15551.50], EntityPixelmon['Noibat'/459212, l='MpServer', x=-15663.48, y=49.00, z=-15527.50], EntityOtherPlayerMP['Maddis123'/473032, l='MpServer', x=-25301.03, y=197.00, z=12564.23], EntityOtherPlayerMP['kasper901'/472535, l='MpServer', x=-25300.50, y=182.00, z=12472.50], EntityPixelmon['Rolycoly'/462550, l='MpServer', x=-15694.97, y=49.00, z=-15540.32], EntityItem['item.item.dive_ball'/466899, l='MpServer', x=-15640.91, y=54.00, z=-15559.11], EntityPixelmon['Rolycoly'/474591, l='MpServer', x=-15681.50, y=42.00, z=-15511.50], EntityPixelmon['Lampent'/456924, l='MpServer', x=-15675.33, y=72.00, z=-15554.25], EntityPixelmon['Zorua'/456923, l='MpServer', x=-15672.65, y=52.00, z=-15551.83], EntityPixelmon['Wingull'/457177, l='MpServer', x=-15627.65, y=70.00, z=-15526.47], EntityOtherPlayerMP['lightning2323'/470064, l='MpServer', x=-25303.19, y=173.06, z=12383.74], EntityOccupiedPokeball['null Ultra Ball'/478951, l='MpServer', x=-15678.03, y=40.58, z=-15540.46], EntityOtherPlayerMP['Maddis123'/473032, l='MpServer', x=-25301.03, y=197.00, z=12564.23], EntityOtherPlayerMP['dedrat3r_ru'/473439, l='MpServer', x=-17244.86, y=64.00, z=1430.07], EntityPixelmon['Gligar'/462579, l='MpServer', x=-15695.50, y=45.00, z=-15517.50], EntityPixelmon['Charizard'/478962, l='MpServer', x=-15644.35, y=52.00, z=-15526.58], EntityPixelmon['Druddigon'/478961, l='MpServer', x=-15649.00, y=51.00, z=-15528.61], EntityPixelmon['Minccino'/472575, l='MpServer', x=-15688.50, y=41.00, z=-15492.50], EntityOtherPlayerMP['SybeD'/474424, l='MpServer', x=440.50, y=69.00, z=6859.50], EntityPixelmon['Sinistea'/473853, l='MpServer', x=-15670.50, y=49.00, z=-15489.50], EntityPixelmon['Tyrantrum'/457467, l='MpServer', x=-15659.82, y=49.38, z=-15507.00]]
+[B#681]  	Retry entities: 0 total; []
+[B#681]  	Server brand: Waterfall <- fml,forge,sponge
+[B#681]  	Server type: Non-integrated multiplayer server
+[B#681]  Stacktrace:
+[B#681]  	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:532)
+[B#681]  	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2741)
+[B#681]  	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:419)
+[B#681]  	at net.minecraft.client.main.Main.main(SourceFile:123)
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[B#681]  	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[B#681]  	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[B#681]  	at java.lang.reflect.Method.invoke(Method.java:497)
+[B#681]  	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[B#681]  	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[B#681]  
+[B#681]  -- System Details --
+[B#681]  Details:
+[B#681]  	Minecraft Version: 1.12.2
+[B#681]  	Operating System: Windows 8.1 (amd64) version 6.3
+[B#681]  	Java Version: 1.8.0_51, Oracle Corporation
+[B#681]  	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[B#681]  	Memory: 4897776808 bytes (4670 MB) / 10737418240 bytes (10240 MB) up to 10737418240 bytes (10240 MB)
+[B#681]  	JVM Flags: 9 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xms10240m -Xmx10240m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+[B#681]  	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+[B#681]  	FML: MCP 9.42 Powered by Forge 14.23.5.2847 Optifine OptiFine_1.12.2_HD_U_G5 11 mods loaded, 11 mods active
+[B#681]  	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+[B#681]  
+[B#681]  	| State  | ID          | Version                | Source                              | Signature                                |
+[B#681]  	|:------ |:----------- |:---------------------- |:----------------------------------- |:---------------------------------------- |
+[B#681]  	| LCHIJA | minecraft   | 1.12.2                 | minecraft.jar                       | None                                     |
+[B#681]  	| LCHIJA | mcp         | 9.42                   | minecraft.jar                       | None                                     |
+[B#681]  	| LCHIJA | FML         | 8.0.99.99              | modpack.jar                         | None                                     |
+[B#681]  	| LCHIJA | forge       | 14.23.5.2847           | modpack.jar                         | None                                     |
+[B#681]  	| LCHIJA | foamfixcore | 7.7.4                  | minecraft.jar                       | None                                     |
+[B#681]  	| LCHIJA | foamfix     | 0.10.11-1.12.2         | foamfix-0.10.11-1.12.2.jar          | None                                     |
+[B#681]  	| LCHIJA | jei         | 4.16.1.301             | jei_1.12.2-4.16.1.301.jar           | None                                     |
+[B#681]  	| LCHIJA | journeymap  | 1.12.2-5.7.1           | journeymap-1.12.2-5.7.1.jar         | None                                     |
+[B#681]  	| LCHIJA | pixelmon    | 8.2.0                  | Pixelmon-1.12.2-8.2.0-universal.jar | None                                     |
+[B#681]  	| LCHIJA | reward2     | 1.12.2-1.0.2-universal | Reward-1.12.2-1.0.2-universal.jar   | None                                     |
+[B#681]  	| LCHIJA | reauth      | 3.6.0                  | reauth-3.6.0.jar                    | daba0ec4df71b6da841768c49fb873def208a1e3 |
+[B#681]  
+[B#681]  	Loaded coremods (and transformers): 
+[B#681]  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.11-1.12.2.jar)
+[B#681]    pl.asie.foamfix.coremod.FoamFixTransformer
+[B#681]  	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 461.40' Renderer: 'GeForce RTX 3070/PCIe/SSE2'
+[B#681]  	Launched Version: 1.12.2-forge1.12.2-14.23.5.2847
+[B#681]  	LWJGL: 2.9.4
+[B#681]  	OpenGL: GeForce RTX 3070/PCIe/SSE2 GL version 4.6.0 NVIDIA 461.40, NVIDIA Corporation
+[B#681]  	GL Caps: Using GL 1.3 multitexturing.
+[B#681]  Using GL 1.3 texture combiners.
+[B#681]  Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+[B#681]  Shaders are available because OpenGL 2.1 is supported.
+[B#681]  VBOs are available because OpenGL 1.5 is supported.
+[B#681]  
+[B#681]  	Using VBOs: Yes
+[B#681]  	Is Modded: Definitely; Client brand changed to 'fml,forge'
+[B#681]  	Type: Client (map_client.txt)
+[B#681]  	Resource Packs: 
+[B#681]  	Current Language: English (US)
+[B#681]  	Profiler Position: N/A (disabled)
+[B#681]  	CPU: 16x Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+[B#681]  	OptiFine Version: OptiFine_1.12.2_HD_U_G5
+[B#681]  	OptiFine Build: 20210124-142939
+[B#681]  	Render Distance Chunks: 64
+[B#681]  	Mipmaps: 0
+[B#681]  	Anisotropic Filtering: 1
+[B#681]  	Antialiasing: 0
+[B#681]  	Multitexture: false
+[B#681]  	Shaders: null
+[B#681]  	OpenGlVersion: 4.6.0 NVIDIA 461.40
+[B#681]  	OpenGlRenderer: GeForce RTX 3070/PCIe/SSE2
+[B#681]  	OpenGlVendor: NVIDIA Corporation
+[B#681]  	CpuCount: 16
+[B#681]  [15:20:08] [Client thread/INFO]: [net.minecraft.init.Bootstrap:func_179870_a:553]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\marco\AppData\Roaming\.technic\modpacks\smashmc-pixelmon-reforged\crash-reports\crash-2021-08-21_15.20.07-client.txt
+[B#681]  AL lib: (EE) alc_cleanup: 1 device not closed
